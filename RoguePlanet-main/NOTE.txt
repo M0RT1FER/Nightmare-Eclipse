@@ -1,0 +1,3 @@
+Trebuei sa fie dezactivat smart app control din setari
+
+!!! Daca nu este dezactivat nu va merge !!!
